@@ -31,7 +31,11 @@
 
     # any module necessary for this one to work correctly
     'depends': [ 'account'],
-    'images': ['static/src/img/main_screenshot.png'],
+    'images': [
+        'static/src/img/main_1.png',
+        'static/src/img/main_2.png',
+        'static/src/img/main_screenshot.png'
+        ],
 
     # always loaded
     'data': [
