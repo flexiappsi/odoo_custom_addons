@@ -8,10 +8,10 @@
     'name': "invoice_amount_in_words",
 
     'summary': """
-        Show invoice Amount in words.""",
+        Print invoice Amount in words.""",
 
     'description': """
-         Show invoice Amount in words.
+         Print invoice Amount in words.
     """,
 
     'author': "Youssef AITNASSER",
